@@ -1,0 +1,8 @@
+title: Pisa-data
+description: Pruebas html css
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
